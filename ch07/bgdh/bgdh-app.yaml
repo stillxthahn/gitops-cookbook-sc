@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: ch07/bgdh
-    repoURL: https://github.com/gitops-cookbook/gitops-cookbook-sc.git
+    repoURL: https://github.com/stillxthahn/gitops-cookbook-sc
     targetRevision: main
   syncPolicy:
     automated: {}
